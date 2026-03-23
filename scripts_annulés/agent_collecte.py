@@ -8,7 +8,7 @@ from browser_use import Agent
 if sys.platform == 'win32':
     asyncio.set_event_loop_policy(asyncio.WindowsProactorEventLoopPolicy())
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAxz4A2PgPwSJ2kVnhUYWh_mAU5CVwID3s"
+os.environ["GOOGLE_API_KEY"] = ""
 
 # Wrapper de compatibilité
 class GeminiWrapper:
