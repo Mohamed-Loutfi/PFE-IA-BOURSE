@@ -6,8 +6,8 @@ import re
 from playwright.sync_api import sync_playwright
 
 # --- CONFIGURATION ---
-EMAIL_USER = "simolouw@gmail.com"
-EMAIL_PASS = "qfyousyfwvsvzrcn" 
+EMAIL_USER = 
+EMAIL_PASS =  
 IMAP_SERVER = "imap.gmail.com"
 DOWNLOAD_DIR = "./telechargements_bvc"
 
